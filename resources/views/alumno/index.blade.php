@@ -26,7 +26,7 @@
 
             <thead class="thead-light"> 
                 <tr>
-                    <th>Id</th>
+                    <th>#</th>
                     <th>Foto</th>
                     <th>Nombre</th>
                     <th>Apellido</th>

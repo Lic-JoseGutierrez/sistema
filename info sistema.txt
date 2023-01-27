@@ -1,0 +1,12 @@
+1 - luego de descargar el sistema hay q abrir una terminal CMD y ubicarse en el directorio de dicho sistema.
+2 - en la consola CMD ejecutar el comando: npm run dev
+3 - en el navegador ingresar a la direccion: localhost/sistema/public
+4 - puede ingresar con las credenciales:
+email: admin@admin.com
+password: 12345678 
+Sino puede crear un nuevo usr.
+
+Una vez dentro del sistema se puede crear nuevos alumnos, modificarlos o borrarlos. 
+Ademas se puede hacer busquedas con los parametros: id, nombre, apellido y correo.
+Va a aparecer msj de alerta cada vez que cree un alumno, lo modifique, lo borre o no se encuentre en la busqueda.
+En la busqueda, si no se completa el campo y se hace click en "Buscar", va a traer todos los registros.
